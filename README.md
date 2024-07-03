@@ -20,7 +20,15 @@ Here is my Personal Portfolio, which includes - <br>
 
 ## Overview:
 
-- Here's the Snippet of the Portfolio website:
+- Here's the Snippet of the Landing Page of the Portfolio website:
 
-![Travel Planner Screenshot](screenshot.png)
+![Landing Page](Page1.png)
+
+- Certificate Section of the Portfolio:
+
+![Certificate Section](Page2.png)
+
+- Tab view of the Portfolio (Responsive):
+
+![Tab view](Page3.png)
   
